@@ -33,7 +33,3 @@
 %ENDIF   4
 %WRITE
 %WRITE
-
-####this is the program running once mainframe terminal starts####
-####it automately runs every Monday####
-####submitting thress other jobs in a batch####
