@@ -8,13 +8,13 @@
 %LET COMMND=&?
 %BEGIFANY  Y=&COMMND 32
 %WRITE *********************************************************
-%WRITE *                                                                                       *
-%WRITE *       SUBMITTING WEEKLY PRODUCTION TOOLS UPDATE           *
-%WRITE *                                                                                       *
-%WRITE *          HAVE YOU SUBMITTED MSZHZ.TSLTGEN                       *
-%WRITE *          TOOLLIST UPDATE ALREADY? (Y OR N)                        *
-%WRITE *                                                                                       *
-%WRITE *                                                                                       *
+%WRITE *                                                       *
+%WRITE *       SUBMITTING WEEKLY PRODUCTION TOOLS UPDATE       *
+%WRITE *                                                       *
+%WRITE *          HAVE YOU SUBMITTED MSZHZ.TSLTGEN             *
+%WRITE *          TOOLLIST UPDATE ALREADY? (Y OR N)            *
+%WRITE *                                                       *
+%WRITE *                                                       *
 %WRITE *********************************************************
 %LET WISH2=&?
 %BEGIF &WISH2=N 22
